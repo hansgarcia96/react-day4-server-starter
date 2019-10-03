@@ -17,7 +17,7 @@ const path         = require('path');
 const session       = require('express-session');
 const passport      = require('passport');
 
-// require('./configs/passport');
+require('./configs/passport');
 
 // IF YOU STILL DIDN'T, GO TO 'configs/passport.js' AND UN-COMMENT OUT THE WHOLE FILE
 
